@@ -24,7 +24,8 @@ export default {
     gray: '#A5A5A5',
     darkGray: '#797979',
     fontGray: '#626262',
-    mainBg: '#06092b'
+    mainBg: '#06092b',
+    gold: '#c9942b'
   },
   spacings: {
     xxsmall: '0.8rem',

@@ -2,7 +2,7 @@ import styled, { css } from 'styled-components'
 
 export const Wrapper = styled.main`
   ${() => css`
-    background-color: #06092b;
+    background-color: #fff;
     color: #fff;
     width: 100%;
     height: 100vh;
